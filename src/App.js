@@ -1,7 +1,7 @@
 import "./App.css";
 import logo from "./res/logo/logo.png";
 import ReactPlayer from "react-player";
-import Canvas from "@react-three-fiber";
+import Canvas from "@react-three/fiber";
 import React, { Suspense } from "react";
 import member from "./res/images/dummy.png";
 import Model from "./Pink";
