@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/troll-e/static/css/main.458c19ab.chunk.css",
+    "main.js": "/troll-e/static/js/main.f63be2c9.chunk.js",
+    "main.js.map": "/troll-e/static/js/main.f63be2c9.chunk.js.map",
+    "runtime-main.js": "/troll-e/static/js/runtime-main.056f5452.js",
+    "runtime-main.js.map": "/troll-e/static/js/runtime-main.056f5452.js.map",
+    "static/js/2.c0b421c3.chunk.js": "/troll-e/static/js/2.c0b421c3.chunk.js",
+    "static/js/2.c0b421c3.chunk.js.map": "/troll-e/static/js/2.c0b421c3.chunk.js.map",
+    "static/js/3.510b4e86.chunk.js": "/troll-e/static/js/3.510b4e86.chunk.js",
+    "static/js/3.510b4e86.chunk.js.map": "/troll-e/static/js/3.510b4e86.chunk.js.map",
+    "index.html": "/troll-e/index.html",
+    "static/css/main.458c19ab.chunk.css.map": "/troll-e/static/css/main.458c19ab.chunk.css.map",
+    "static/js/2.c0b421c3.chunk.js.LICENSE.txt": "/troll-e/static/js/2.c0b421c3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/troll-e/static/media/gunship.5a798c81.ttf",
+    "static/media/dummy.c448a2b5.png": "/troll-e/static/media/dummy.c448a2b5.png",
+    "static/media/logo.144aa831.png": "/troll-e/static/media/logo.144aa831.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.056f5452.js",
+    "static/js/2.c0b421c3.chunk.js",
+    "static/css/main.458c19ab.chunk.css",
+    "static/js/main.f63be2c9.chunk.js"
+  ]
+}
